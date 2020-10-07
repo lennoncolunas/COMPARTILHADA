@@ -1,4 +1,5 @@
 @echo off
+d:
 cd D:\COMPARTILHADA
 dir 
 git pull
